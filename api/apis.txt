@@ -1,0 +1,5 @@
+1. Get All Todos : done
+2. Add New Todo
+3. Delete Todo
+4. Update Todo
+5. Get Completed Todo
